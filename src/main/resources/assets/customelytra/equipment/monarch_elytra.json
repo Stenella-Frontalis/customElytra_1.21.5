@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:elytra",
+  "layers": {
+    "wings": [
+      {
+        "texture": "customelytra:entity/monarch_elytra",
+        "use_player_texture": true
+      }
+    ]
+  }
+}

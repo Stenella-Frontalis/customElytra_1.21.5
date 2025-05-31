@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "customelytra:item/monarch_elytra_broken"
+  }
+}
+
